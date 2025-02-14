@@ -8,6 +8,7 @@ Welcome to my **Construction Permit Dashboard**, an interactive Tableau visualiz
 - **Valuations and No. of Permits Issued by State** – A **geospatial heatmap** that visualizes construction valuations alongside permit issuance.
 - **Total Valuations (all units) by State** – A **scatter plot** that highlights valuation trends across states.
 - **Total Valuations and Total No. of Permits by State** – A **treemap** offering an overview of valuation and permit numbers for different states.
+![image](https://github.com/user-attachments/assets/905073a0-2da7-4fe4-988f-c2315db13423)
 
 ## 🚀 Technologies Used
 - **Tableau** – Used for dashboard creation and data visualization.
