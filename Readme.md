@@ -1,4 +1,4 @@
-# 🏗️ Construction Permit Dashboard
+# 🏗️ Construction Permit Dashboard 
 
 ## 📌 Project Overview
 Welcome to my **Construction Permit Dashboard**, an interactive Tableau visualization designed to analyze and present **construction permit distributions and total valuations across U.S. states**. This project reflects my passion for **data visualization, business intelligence, and analytics**, providing insights into **construction trends, regional permitting patterns, and financial valuations**.
